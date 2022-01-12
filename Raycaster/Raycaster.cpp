@@ -4,7 +4,7 @@
 using namespace std;
 
 // Constants
-const short nScreenWidth = 128 * 4, nScreenHeight = 36 * 4;
+const short nScreenWidth = 128 * 2, nScreenHeight = 36 * 2;
 const wchar_t Palette[] = L" .,-~*:;!=#$@"; // 13 shades
 const int ColorPalette[] = { 0b0000, 0b0111, 0b0100, 0b0010, 0b0001, 0b0110 };
 const float PI = 3.14159265359f;
